@@ -105,7 +105,7 @@ class LinkedinLogin {
         reject(error);
       });
 
-      const options = 'id,first-name,last-name,industry,email-address';
+      const options = 'id,first-name,last-name,industry,email-address,headline,location,positions,picture-url,public-profile-url';
       const profilestr = `https://api.linkedin.com/v1/people/~:(${options})`;
       const profilestrWithAuth = `${profilestr}?oauth2_access_token=${atoken}&format=json`;
 
