@@ -1,5 +1,5 @@
 {
-  "name": "react-native-linkedin-login-extended",
+  "name": "react-native-linkedin-login",
   "version": "1.4.0",
   "description": "React Native wrapper for native Linkedin login button and manager",
   "main": "index",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oss92/react-native-linkedin-login-extended"
+    "url": "https://github.com/oss92/react-native-linkedin-login"
   },
   "keywords": [
     "react",
@@ -28,9 +28,9 @@
   "author": "Jody Brewster",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jodybrewster/react-native-linkedin-login-extended/issues"
+    "url": "https://github.com/jodybrewster/react-native-linkedin-login/issues"
   },
-  "homepage": "https://github.com/jodybrewster/react-native-linkedin-login-extended",
+  "homepage": "https://github.com/jodybrewster/react-native-linkedin-login",
   "peerDependencies": {
   },
   "dependencies": {
